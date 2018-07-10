@@ -565,10 +565,10 @@ elif name = 'Charlie':
 #+begin_src python :results output
 if name =='Adam':
     print('Hello')
-elif name = 'Bob':
+elif name == 'Bob':
     # Not finished yet...to be continued
     pass
-elif name = 'Charlie':
+elif name == 'Charlie':
     print('Access Denied')
 #+end_src
 
